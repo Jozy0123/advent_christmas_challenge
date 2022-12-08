@@ -87,13 +87,3 @@ def calculate_stop_stack():
 if __name__ == '__main__':
     test_parse_stacks()
     print(calculate_stop_stack())
-
-
-
-
-
-
-
-
-
-
