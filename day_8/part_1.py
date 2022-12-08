@@ -78,18 +78,3 @@ if __name__ == "__main__":
     arrays = load_arrays()
     trees = count_trees(arrays)
     print(trees)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

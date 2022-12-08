@@ -76,18 +76,3 @@ if __name__ == "__main__":
     test_process_arrays()
     trees = count_trees(arrays)
     print(trees)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
