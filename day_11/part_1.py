@@ -151,7 +151,7 @@ def parse_file():
 def simulation():
     play_round = parse_file()
 
-    for _ in range(5):
+    for _ in range(20):
         play_round.play()
         play_round.print_result()
 
