@@ -71,6 +71,8 @@ class HeightMap:
                 keep_path[i] = current_loc
                 self.visited.add(i)
 
+        return keep_path
+
 def parse_file():
     with open("puzzle_input.txt", 'r') as inputs:
         map_list = []
